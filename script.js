@@ -1,3 +1,4 @@
+
 function enterClub() {
-  alert("Genres page coming next! 🎵");
+    window.location.href = "genres.html";
 }
